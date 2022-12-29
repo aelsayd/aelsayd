@@ -1,4 +1,4 @@
-Hiello, I’m @aelsayd 👋
+Hello, I’m @aelsayd 👋
 - 👀 I’m interested in Machine Learning, Cmputer Vison, Computer Graphics, and Generating media
 - 🌱 I’m currently learning About Transformers, and Sentiment Analysis through Computer Vision
 - 💼 I'm currently working as a Full Stack Web Devoleper, mainly making 2d online games
